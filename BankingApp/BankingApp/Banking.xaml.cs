@@ -22,7 +22,7 @@ namespace BankingApp
         decimal cSavingsBalance = 4346.37m;
         decimal cChequeBalance = 1386.37m;
         decimal cInvestmentBalance = 3138.78m;
-        decimal amountTransfer = 0.0m;
+        decimal amountTransfer = 2.0m;
         decimal fromBalance = 4346.37m, toBalance = 1386.37m;
 
         // use this two variables to keep track which radio button has clicked
